@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "AffPolySig"
+  site-url: "https://sarasvaluto.github.io/AffPolySig"
+  description: "Code for Laplace transform and expected signature of generic stochastic processes"
+  repo-branch: main
+  repo-url: "https://github.com/sarasvaluto/AffPolySig"
