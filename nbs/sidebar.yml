@@ -1,0 +1,6 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - exp_sig_poly_proc.ipynb
+      - riccati_bm.ipynb
